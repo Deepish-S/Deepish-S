@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Deepish-S
-- 👀 I’m interested in Programmin lang mostly java and Python 
+- 💞️ show some love on youtube : https://www.youtube.com/channel/UCIF9uYwe6xZ7WSIWkPeAtQA
+- 👀 I’m interested in programming mostly web development and Python 
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Gmail:Deepishnaidu52@gmail.com
 
 
